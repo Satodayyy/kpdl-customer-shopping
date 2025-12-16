@@ -168,12 +168,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-
-
----
-
-**⭐ Nếu project này hữu ích, hãy cho chúng tôi một star!**
-
----
-
 *Last updated: December 2024*
