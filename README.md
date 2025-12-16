@@ -31,11 +31,14 @@ Dự án này thực hiện phân tích toàn diện dữ liệu mua sắm từ 
 
 ### Câu hỏi nghiên cứu
 
-1. Những nhóm khách hàng nào có hành vi mua sắm tương đồng?
-2. Những sản phẩm hoặc danh mục sản phẩm nào thường được mua cùng nhau?
-3. Có thể dự đoán danh mục sản phẩm dựa trên đặc điểm của khách hàng hay không?
-4. Xu hướng mua sắm của khách hàng thay đổi theo thời gian như thế nào?
-
+1. Phân nhóm khách hàng (Customer Segmentation):
+Có những nhóm khách hàng nào với hành vi mua sắm tương đồng? Các nhóm này được đặc trưng bởi những yếu tố gì về tần suất mua hàng, giá trị giao dịch và thời gian mua sắm gần nhất?
+2. Khai phá luật kết hợp (Association Rules Discovery):
+Những sản phẩm nào thường được mua cùng nhau? Mối quan hệ giữa các danh mục sản phẩm có đủ mạnh để áp dụng cho chiến lược cross-selling không?
+3. Dự đoán hành vi mua sắm (Purchase Behavior Prediction):
+Có thể dự đoán chính xác danh mục sản phẩm mà khách hàng sẽ mua dựa trên các đặc điểm nhân khẩu học, phương thức thanh toán, và thời điểm mua sắm không?
+4. Phân tích xu hướng thời gian (Temporal Pattern Analysis):
+Xu hướng mua sắm thay đổi như thế nào theo thời gian? Có sự khác biệt đáng kể giữa các ngày trong tuần, giờ trong ngày, hoặc các giai đoạn khác nhau trong năm không?
 ---
 
 ##  Dataset
