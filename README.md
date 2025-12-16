@@ -164,11 +164,12 @@ kpdl-customer-shopping/
 
 ---
 
-## Acknowledgments
+## Lời cảm ơn
 
-- Dataset author: Mehmet Tahir Arslan
-- Kaggle Community
-- Course instructors and TAs
+- Tác giả bộ dữ liệu: Mehmet Tahir Arslan
+- Cộng đồng Kaggle
+- Giảng viên hướng dẫn: Đỗ Như TàiTài
+
 
 ---
 
