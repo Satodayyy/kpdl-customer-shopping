@@ -61,7 +61,7 @@ Dự án này thực hiện phân tích toàn diện dữ liệu mua sắm từ 
 ##  Cấu trúc Project
 
 ```
-customer-shopping-data-mining/
+kpdl-customer-shopping/
 │
 ├── README.md                          # File này
 ├── requirements.txt                   # Python dependencies
