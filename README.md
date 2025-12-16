@@ -173,4 +173,4 @@ kpdl-customer-shopping/
 
 ---
 
-*Last updated: December 20252025*
+*Last updated: December 2025*
