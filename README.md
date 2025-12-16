@@ -168,7 +168,7 @@ kpdl-customer-shopping/
 
 - Tác giả bộ dữ liệu: Mehmet Tahir Arslan
 - Cộng đồng Kaggle
-- Giảng viên hướng dẫn: Đỗ Như TàiTài
+- Giảng viên hướng dẫn: Đỗ Như Tài
 
 
 ---
