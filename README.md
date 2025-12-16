@@ -80,7 +80,7 @@ kpdl-customer-shopping/
 │       ├── 01_missing_values.png
 │       └── 02_outliers_detection.png
 │
-├── 02_eda_clustering/                # THÀNH VIÊN 2
+├── 02_eda_clustering/                # Lê Thành Danh
 │   ├── eda_analysis.ipynb            # EDA notebook
 │   ├── clustering_analysis.ipynb     # Clustering notebook
 │   ├── clustering_models.py          # Model implementations
@@ -137,7 +137,7 @@ kpdl-customer-shopping/
 | Thành viên | Vai trò | Phần đảm nhận |
 |------------|---------|---------------|
 | **Thành viên 1** | Data Engineer | Data Preprocessing & Feature Engineering |
-| **Thành viên 2** | Data Analyst | EDA & Clustering Analysis |
+| **Lê Thành Danh** | Data Analyst | EDA & Clustering Analysis |
 | **Thành viên 3** | Data Miner | Association Rules Mining |
 | **Thành viên 4** | ML Engineer | Classification & Integration |
 
