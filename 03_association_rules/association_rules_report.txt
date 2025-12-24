@@ -10,13 +10,13 @@
    - Min support: 0.02
    - Frequent itemsets: 8
    - Association rules: 0
-   - Thời gian: 0.01s
+   - Thời gian: 0.02s
 
 3. FP-GROWTH ALGORITHM:
    - Min support: 0.02
    - Frequent itemsets: 8
    - Association rules: 0
-   - Thời gian: 0.32s
+   - Thời gian: 0.53s
 
 4. TOP INSIGHTS:
    
