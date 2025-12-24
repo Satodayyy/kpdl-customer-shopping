@@ -104,13 +104,12 @@ kpdl-customer-shopping/
 │   ├── market_basket_analysis.ipynb  # Apriori/FP-Growth code
 │   ├── association_rules_results.csv # All rules
 │   ├── frequent_itemsets.csv         # Frequent patterns
-│   ├── actionable_insights.csv       # Business insights
 │   ├── association_rules_report.md   # Báo cáo chi tiết
 │   └── figures/                      # Visualizations
 │       ├── 01_item_frequency.png
-│       ├── 03_support_confidence_plot.png
+│       ├── 02_algorithm_comparison.png
 │       ├── 04_rules_network.png
-│       └── ...
+│       └── 05_lift_distribution.png
 │
 ├── 04_classification_integration/    # Nguyễn Trí Sự
 │   ├── classification_models.ipynb   # Main notebook
