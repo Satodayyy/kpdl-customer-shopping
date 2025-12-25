@@ -120,6 +120,7 @@ kpdl-customer-shopping/
 │   ├── model_decision_tree.pkl       # Saved models
 │   ├── model_random_forest.pkl
 │   ├── model_naive_bayes.pkl
+│   ├── label_encoder_category.pkl
 │   ├── model_comparison_results.csv  # Results
 │   └── figures/                      # Visualizations
 │       ├── 01_dt_feature_importance.png
