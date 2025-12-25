@@ -1,6 +1,7 @@
 # Customer Shopping Data Mining Project
 
 **Đề tài Khai phá Dữ liệu - Data Mining Course**
+*Phân Tích Hành Vi Mua Sắm Khách Hàng*
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 ---
@@ -118,6 +119,7 @@ kpdl-customer-shopping/
 │   ├── model_decision_tree.pkl       # Saved models
 │   ├── model_random_forest.pkl
 │   ├── model_naive_bayes.pkl
+│   ├── label_encoder_category.pkl
 │   ├── model_comparison_results.csv  # Results
 │   └── figures/                      # Visualizations
 │       ├── 01_dt_feature_importance.png
@@ -140,12 +142,12 @@ kpdl-customer-shopping/
 
 ## Nhóm thực hiện
 
-| Thành viên | Vai trò | Phần đảm nhận |
-|------------|---------|---------------|
-| **Huỳnh Nhật Thành** | Data Engineer | Data Preprocessing & Feature Engineering |
-| **Lê Thành Danh** | Data Analyst | EDA & Clustering Analysis |
-| **Nguyễn Quốc Thuận** | Data Miner | Association Rules Mining |
-| **Nguyễn Trí Sự** | ML Engineer | Classification & Integration |
+| Thành viên | Phần đảm nhận |
+|------------|---------------|
+| **Huỳnh Nhật Thành** |  Data Preprocessing & Feature Engineering |
+| **Lê Thành Danh** |  EDA & Clustering Analysis |
+| **Nguyễn Quốc Thuận** |  Association Rules Mining |
+| **Nguyễn Trí Sự** |  Classification & Integration |
 
 ---
 
